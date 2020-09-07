@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Андрей Коршунов](https://up.htmlacademy.ru/htmlcss/29/user/359327).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий (sench) Железцов](https://htmlacademy.ru/profile/sench).
 
 ---
 
